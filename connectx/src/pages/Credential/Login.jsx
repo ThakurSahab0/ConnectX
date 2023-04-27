@@ -92,9 +92,7 @@ export default function Login() {
           <div className="left">
             <h1>ConnectX</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-              alias totam numquam ipsa exercitationem dignissimos, error nam,
-              consequatur.
+            ConnectX is a secure and reliable web-based video conferencing tool that enables user's to connect, communicate and collaborate seamlessly, from anywhere in the world.
             </p>
             <span>Don't you have an account?</span>
             {/* <NavLink to="/register" className="button">Create Account</NavLink> */}
