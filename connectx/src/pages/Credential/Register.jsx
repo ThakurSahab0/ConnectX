@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom'
 import { useNavigate } from 'react-router-dom';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import "./register.scss";
 export default function Register() {
 
     const navigate = useNavigate();
@@ -36,7 +37,7 @@ export default function Register() {
         console.log(res.status);
         if (res.status === 200) {
             // alert("Login Success")
-            toast.success('Login Success 😉', {
+            toast.success('Login Success', {
                 position: "bottom-right",
                 autoClose: 5000,
                 hideProgressBar: false,
@@ -50,7 +51,7 @@ export default function Register() {
         }
         else if (res.status === 401) {
             // alert("User Alerady exists")
-            toast.warn('User Already exists 😐', {
+            toast.warn('User Already exists', {
                 position: "bottom-right",
                 autoClose: 5000,
                 hideProgressBar: false,
@@ -63,7 +64,7 @@ export default function Register() {
         }
         else if (res.status === 400) {
             // alert("fill all credentials")
-            toast.error('Please', {
+            toast.error('Please fill all credentials', {
                 position: "bottom-right",
                 autoClose: 5000,
                 hideProgressBar: false,
@@ -78,7 +79,7 @@ export default function Register() {
     }
     return (
         <>
-            <div className="container d-flex align-items-center justify-content-center" style={{ width: "100%", height: "100vh" }}>
+            {/* <div className="container d-flex align-items-center justify-content-center" style={{ width: "100%", height: "100vh" }}>
                 <form>
                     <h2>User Register</h2>
                     <div className="mb-3">
@@ -97,6 +98,34 @@ export default function Register() {
                     <button type="submit" className="btn btn-primary m-3" onClick={postData}>Register</button>
                     <NavLink to="/">Already Have Account</NavLink>
                 </form>
+            </div> */}
+
+            <div className="register">
+                <div className="card">
+                    <div className="left">
+                        <h1>ConnectX</h1>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
+                            alias totam numquam ipsa exercitationem dignissimos, error nam,
+                            consequatur.
+                        </p>
+                        <span>Already Have Account</span>
+                        <NavLink to="/">
+                            <button>Login</button>
+                        </NavLink>
+                    </div>
+                    <div className="right">
+                        <h1>Register</h1>
+                        <form>
+                            <input type="text" placeholder="Username" name='userName' onChange={handleData} />
+                            {/* <input type="email" placeholder="Email" /> */}
+                            <input type="number" placeholder="Phone no." name='phone' onChange={handleData} />
+                            <input type="password" placeholder="Password" name='password' onChange={handleData} />
+                            {/* <input type="text" placeholder="Name" /> */}
+                            <button onClick={postData}>Register</button>
+                        </form>
+                    </div>
+                </div>
             </div>
 
             <ToastContainer

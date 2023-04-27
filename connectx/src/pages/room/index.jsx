@@ -35,7 +35,7 @@ const RoomPage = () => {
                 style={{ width: '100vw', height: '100vh' }}
             >
             </div>
-            <button className='btn btn-primary' onClick={() => navigate("/")}>Logout</button>
+            <button className='btn btn-primary btnlogout' onClick={() => navigate("/")}>Logout</button>
         </>
     );
 };

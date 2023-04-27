@@ -15,7 +15,7 @@ const HomePage = () => {
             <form onSubmit={handleFormSubmit} className="form1">
                 <h2 className="head1">👋 Create OR Join a Room </h2>
                 <div className="form-group">
-                    <input value={roomCode} onChange={e => setRoomCode(e.target.value)} type="text" required placeholder="Enter Room Code"/>
+                    <input className="inp" value={roomCode} onChange={e => setRoomCode(e.target.value)} type="text" required placeholder="Enter Room Code"/>
                 </div>
                 <button className="submit1" type="submit">Join Room</button>
             </form>
