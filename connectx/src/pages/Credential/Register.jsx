@@ -105,9 +105,7 @@ export default function Register() {
                     <div className="left">
                         <h1>ConnectX</h1>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-                            alias totam numquam ipsa exercitationem dignissimos, error nam,
-                            consequatur.
+                        Experience smooth and seamless virtual communication with ConnectX, the reliable video conferencing tool that lets you connect and collaborate with ease. Sign up now and stay connected with your team, wherever you are.
                         </p>
                         <span>Already Have Account</span>
                         <NavLink to="/">

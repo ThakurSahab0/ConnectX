@@ -5,7 +5,6 @@ import 'react-toastify/dist/ReactToastify.css';
 export default function Logout() {
     const navigate = useNavigate();
     const userlogout = async () => {
-
         const res = await fetch("/logoutuser", {
             method: "GET",
             headers: {
