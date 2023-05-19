@@ -12,8 +12,8 @@
 ## Login
 ![Screenshot (95)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/af460030-4176-4eda-b193-c017d4bfc265)
 
-## Dont't have an acoount yet ? Regitser !
-[Screenshot (96)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/5e4a78f7-8eed-402d-a6a5-902c105f76ae)
+## Dont't have an acoount yet ? Regitser 
+![Screenshot (96)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/f35e4634-8d2e-4e4f-a06a-f0e97ee193d8)
 
 ## Enter personalized room code of your choice
 ![Screenshot (97)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/7aea3ff2-02cc-4ccf-a7da-77a630b21574)
