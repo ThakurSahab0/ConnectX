@@ -1,71 +1,31 @@
-# ConnectX_Final
-# Getting Started with Create React App
+# Steps to Start the App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Install the Public Dependencies
+### Install the Server Dependencies
+### In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
+### Now start the server by npm start
+### Now start the react by npm start
+### And the application would be running successfully by now.
 
-## Available Scripts
+# Snapshots 
 
-In the project directory, you can run:
+## Login
+![Screenshot (95)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/af460030-4176-4eda-b193-c017d4bfc265)
 
-### `npm start`
+## Dont't have an acoount yet ? Regitser !
+[Screenshot (96)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/5e4a78f7-8eed-402d-a6a5-902c105f76ae)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Enter personalized room code of your choice
+![Screenshot (97)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/7aea3ff2-02cc-4ccf-a7da-77a630b21574)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Enter your name and give Permission to toogle camera and mic on or off.
+![Screenshot (98)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/6baa3ae8-8ee8-4d49-9df2-1e6b84a5dd89)
 
-### `npm test`
+## Home Interface
+![Screenshot (108)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/e486fa79-5007-44a8-8d39-fd8c931ca71f)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Want to share your screen ? You can !
+![Screenshot (109)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/b108a401-b88b-4655-896d-5ed2815b7e33)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Want to talk to others in real-time !!
+![Screenshot (110)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/bf652bed-3366-4401-9e6a-2d84cf37b225)
