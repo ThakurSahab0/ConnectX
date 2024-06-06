@@ -1,12 +1,3 @@
-# Steps to Start the App
-
-### Install the Public Dependencies
-### Install the Server Dependencies
-### In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
-### Now start the server by npm start
-### Now start the react by npm start
-### And the application would be running successfully by now.
-
 # ConnectX: Video Conferencing Web App
 ### ConnectX is a cutting-edge video conferencing web application developed to revolutionize remote collaboration. Leveraging ReactJS, MERN (MongoDB, Express.js, React.js, Node.js) stack, and ZegoCloud API, ConnectX offers a seamless and secure platform for users to connect, communicate, and collaborate effortlessly.
 
@@ -38,3 +29,12 @@
 
 ## Want to talk to others in real-time !!
 ![Screenshot (110)](https://github.com/Yashgoyal1612/ConnectX_Final/assets/80318226/bf652bed-3366-4401-9e6a-2d84cf37b225)
+
+# Steps to Start the App
+
+### Install the Public Dependencies
+### Install the Server Dependencies
+### In the Server Directory there's a .env file. Change the value of mongodb inside the file. Set the value as your mongodb connection url.
+### Now start the server by npm start
+### Now start the react by npm start
+### And the application would be running successfully by now.
