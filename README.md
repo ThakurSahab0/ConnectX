@@ -7,6 +7,15 @@
 ### Now start the react by npm start
 ### And the application would be running successfully by now.
 
+# ConnectX: Video Conferencing Web App
+### ConnectX is a cutting-edge video conferencing web application developed to revolutionize remote collaboration. Leveraging ReactJS, MERN (MongoDB, Express.js, React.js, Node.js) stack, and ZegoCloud API, ConnectX offers a seamless and secure platform for users to connect, communicate, and collaborate effortlessly.
+
+## Key Features:
+
+### Effortless Connection: ConnectX provides a user-friendly interface for effortless connection to video conferences, enabling users to join meetings with ease.
+### Chat Functionality: Seamlessly integrated chat functionality allows users to communicate in real-time during video conferences, enhancing collaboration.
+### Screen Sharing: With ConnectX, users can share their screens during video conferences, facilitating effective presentations and collaboration.
+
 # Snapshots 
 
 ## Login
