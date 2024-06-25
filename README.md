@@ -7,7 +7,7 @@
 ### Chat Functionality: Seamlessly integrated chat functionality allows users to communicate in real-time during video conferences, enhancing collaboration.
 ### Screen Sharing: With ConnectX, users can share their screens during video conferences, facilitating effective presentations and collaboration.
 
-## Integration with ZegoCloud API:
+## Integration with ZegoCloud API: 
 
 ### ConnectX harnesses the power of ZegoCloud API to enhance its functionality and provide users with a secure and dependable video conferencing experience. ZegoCloud integration ensures high-quality audio and video streaming, robust security features, and seamless scalability for ConnectX users.
 
