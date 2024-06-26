@@ -8,5 +8,8 @@
     "client": "npm start --prefix connectx",
     "test": "echo \"Error: no test specified\" && exit 1",
     "vikas": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "sass": "^1.77.6"
   }
 }
